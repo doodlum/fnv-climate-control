@@ -1,8 +1,5 @@
 #pragma once
 
-#define RUNTIME_VERSION 0x040020D0
-
-#define JIP_AS_LIBRARY
 #pragma warning(push)
 #include "Internal/Prefix.h"
 #include "Internal/JIP_Core.h"

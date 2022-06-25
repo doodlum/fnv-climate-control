@@ -1,4 +1,5 @@
 add_compile_definitions(FALLOUTNV)
+add_compile_definitions(JIP_AS_LIBRARY)
 
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
